@@ -5,5 +5,5 @@ for i in range(1, 10):
         print("Buzz")
 print("end")
 
-# 错误版本
-print("此为错误版本")
+# 正确版本
+print("此为正确版本")
