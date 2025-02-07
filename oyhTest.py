@@ -8,9 +8,3 @@ print("end")
 # xyc部分
 print("aierdeng")
 
-# oyh部分
-a = 0
-if a == 0:
-    print(a)
-else:
-    print("lalalala")
