@@ -1,3 +1,4 @@
+
 for i in range(1, 10):
     if i % 3 == 0 and i % 5 == 0:
         print("3")
@@ -22,3 +23,10 @@ print("aierdeng")
 
 # 这是feat部分独有的内容
 print("featgagaga")
+
+# test merge
+for a in range(100):
+    print(a)
+
+print("gagaga")
+
