@@ -19,3 +19,6 @@ print("aierdeng")
 # 这是为了测试reset命令所写的语句
 
 # 现在我加了一条在5.0版本的语句，这个是从4.0-5.0的更改
+
+# 这是feat部分独有的内容
+print("featgagaga")
