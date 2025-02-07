@@ -4,3 +4,9 @@ for i in range(1, 10):
     else:
         print("4")
 print("end")
+
+a = 0
+if a == 0:
+    print(a)
+else:
+    print("lalalala")
