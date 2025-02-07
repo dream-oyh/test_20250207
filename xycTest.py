@@ -3,3 +3,4 @@ for i in range(1, 10):
         print("Fizz")
     else:
         print("Buzz")
+print("end")
